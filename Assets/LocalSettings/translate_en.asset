@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: translate_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 881a927c7578aa74ba65f86fcf3ae317, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 305183916032
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22950298320896
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23008775307264
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23054077984768
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23286794747904
+    m_Localized: Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25331027214336
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25380062822400
+    m_Localized: Italian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388877976141824
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388947974881280
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1838826160979968
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1838857337241600
+    m_Localized: Sound effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2081318575865856
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2496239683829760
+    m_Localized: 'If you are reading this, you are probably confused and scared.
+      Don''t worry, you are exactly where you need to be. This room was created to
+      test your wits and your ability to survive.
+
+      The first step is simple:
+      observe every detail of the room. Don''t trust appearances: clues can be hidden
+      in the most unexpected places. You will have to use logic, patience and courage
+      to find the way out.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2496450472771584
+    m_Localized: 'The road that will lead you to it is full of pitfalls, and time
+      is not on your side.
+
+      You are not the first to travel this path, others
+      before you have tried... however, if you are lucky, you could be the last.
+
+      Do
+      not rush to look for a loophole, rather focus on what is around you. Even if
+      everything seems unknown to you now, soon everything will fall into place...
+
+      Good
+      luck, and may your intuition guide you.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2533787693023232
+    m_Localized: Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2533870534721536
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536249669779456
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544113423548416
+    m_Localized: 'Price:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544176241639424
+    m_Localized: 'Quantity:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3272438735503360
+    m_Localized: Start again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510492842754048
+    m_Localized: But where am I?!! What place is this?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510635000299520
+    m_Localized: I don't remember ever arriving here...I'd better leave as soon as
+      possible...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510837568405504
+    m_Localized: But the door is closed...and now how will I get out...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510992107536384
+    m_Localized: There's a diary...who knows whose it is...let's take a look at it,
+      maybe it will help me...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3541512912699392
+    m_Localized: I wonder if this chessboard will help me...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3914483032457216
+    m_Localized: You have already bought the clue provided for this level.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4369027302490112
+    m_Localized: A key seems to have appeared on the bedside table...who knows if
+      it will open the door...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4374429100474368
+    m_Localized: 'W-A-S-D to move
+
+      E to interact with objects
+
+      I to open/close
+      inventory
+
+      Q to open the door'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4378477312671744
+    m_Localized: (Pressing I will open the inventory where you will find a sheet
+      of paper with the commands for playing the game written on it)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4584519292223488
+    m_Localized: Thanks for playing, there are no other levels planned at the moment...see
+      you soon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4601307333722112
+    m_Localized: Congratulations, you've finished the tutorial!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4622388719321088
+    m_Localized: Coming soon
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: translate_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 881a927c7578aa74ba65f86fcf3ae317, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 305183916032
+    m_Localized: Chiudi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22950298320896
+    m_Localized: Gioca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23008775307264
+    m_Localized: Opzioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23054077984768
+    m_Localized: Esci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23286794747904
+    m_Localized: Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25331027214336
+    m_Localized: Inglese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25380062822400
+    m_Localized: Italiano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388877976141824
+    m_Localized: "Men\xF9 principale"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388947974881280
+    m_Localized: Continua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1838826160979968
+    m_Localized: Musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1838857337241600
+    m_Localized: Effetti sonori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2081318575865856
+    m_Localized: Lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2496239683829760
+    m_Localized: "Se stai leggendo queste parole, probabilmente sei confuso e spaventato.
+      Non preoccuparti, sei esattamente dove devi essere. Questa stanza \xE8 stata
+      creata per testare il tuo ingegno e la tua capacit\xE0 di sopravvivenza.\nIl
+      primo passo \xE8 semplice: osserva ogni dettaglio della stanza. Non fidarti
+      delle apparenze: gli indizi possono essere nascosti nei luoghi pi\xF9 impensabili.
+      Dovrai usare logica, pazienza e coraggio per trovare la via d'uscita.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2496450472771584
+    m_Localized: "La strada che ti condurr\xE0 verso di essa \xE8 piena di insidie,
+      e il tempo non \xE8 dalla tua parte. \nNon sei il primo a percorrere questo
+      cammino, altri prima di te hanno tentato\u2026tuttavia, se sei fortunato, potresti
+      essere l'ultimo. \nNon affrettarti a cercare una scappatoia, piuttosto concentrati
+      su quello che hai attorno. Anche se adesso tutto ti appare sconosciuto, presto
+      ogni cosa andr\xE0 al suo posto...\nBuona fortuna, e che l\u2019intuito\_ti\_guidi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2533787693023232
+    m_Localized: Indizio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2533870534721536
+    m_Localized: Tempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536249669779456
+    m_Localized: Compra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544113423548416
+    m_Localized: 'Prezzo:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544176241639424
+    m_Localized: "Quantit\xE0:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3272438735503360
+    m_Localized: Ricomincia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510492842754048
+    m_Localized: "Ma dove mi trovo?!! Che posto \xE8 questo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510635000299520
+    m_Localized: "Non ricordo di essere mai arrivato qui...sar\xE0 meglio che me
+      ne vada il prima possibile..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510837568405504
+    m_Localized: "Ma la porta \xE8 chiusa...ed ora come far\xF2 ad uscire..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510992107536384
+    m_Localized: "C'\xE8 un diario...chiss\xE0 di chi \xE8...diamogli un occhiata,
+      magari mi sar\xE0 d'aiuto..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3541512912699392
+    m_Localized: "Chiss\xE0 se questa scacchiera mi sar\xE0 d'aiuto..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3914483032457216
+    m_Localized: "Hai gi\xE0 comprato l'indizio previsto per questo livello."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4369027302490112
+    m_Localized: "Sembra essere apparsa una chiave sul comodino...chiss\xE0 se aprir\xE0
+      la porta..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4374429100474368
+    m_Localized: 'W-A-S-D per muoversi
+
+      E per interagire con gli oggetti
+
+      I
+      per aprire/chiudere l''inventario
+
+      Q per aprire la porta'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4378477312671744
+    m_Localized: "(Premendo I si aprir\xE0 l'inventario dove troverai un foglio con
+      su scritto i comandi per giocare)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4584519292223488
+    m_Localized: Grazie per aver giocato, al momento non sono previsti altri livelli...ci
+      vediamo presto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4601307333722112
+    m_Localized: Complimenti, hai finito il tutorial!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4622388719321088
+    m_Localized: Prossimamente
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

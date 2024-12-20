@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: translate Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: translate
+  m_TableCollectionNameGuidString: 881a927c7578aa74ba65f86fcf3ae317
+  m_Entries:
+  - m_Id: 305183916032
+    m_Key: chiudi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22950298320896
+    m_Key: gioca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23008775307264
+    m_Key: opzioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23054077984768
+    m_Key: esci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23286794747904
+    m_Key: account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25331027214336
+    m_Key: inglese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25380062822400
+    m_Key: italiano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388877976141824
+    m_Key: menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388947974881280
+    m_Key: continua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1838826160979968
+    m_Key: musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1838857337241600
+    m_Key: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2081318575865856
+    m_Key: lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2496239683829760
+    m_Key: pagina1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2496450472771584
+    m_Key: pagina2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2533787693023232
+    m_Key: indizio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2533870534721536
+    m_Key: tempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536249669779456
+    m_Key: compra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544113423548416
+    m_Key: prezzo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544176241639424
+    m_Key: quantita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3272438735503360
+    m_Key: ricomincia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510492842754048
+    m_Key: WakeUp1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510635000299520
+    m_Key: WakeUp2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510837568405504
+    m_Key: WakeUp3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510992107536384
+    m_Key: WakeUp4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4378477312671744
+    m_Key: WakeUp5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3541512912699392
+    m_Key: hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3914483032457216
+    m_Key: indizio comprato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4369027302490112
+    m_Key: vittoria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4374429100474368
+    m_Key: comandi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4601307333722112
+    m_Key: mess.vitt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4584519292223488
+    m_Key: mess.vitt.2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4622388719321088
+    m_Key: level2
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1911871605945663516
+  references:
+    version: 2
+    RefIds:
+    - rid: 1911871605945663516
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1733328796402
